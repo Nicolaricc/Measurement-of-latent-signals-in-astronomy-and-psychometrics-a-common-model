@@ -1,4 +1,4 @@
-# Measurement-of-latent-signals-in-astronomy-and-psychometrics-a-common-model
+# Measurement-of-latent-signals-in-astronomy-and-psychometric-a-common-model
 
 This work aims to analyze the model used to the detect primordial gravitational – wave background in the presence of astrophysical foregrounds and draw an application in the context of psychometric statistics, identifying differences and similarities with respect to confirmatory factor analysis.
 
