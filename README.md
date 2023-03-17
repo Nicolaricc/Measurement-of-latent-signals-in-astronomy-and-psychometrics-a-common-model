@@ -1,0 +1,1 @@
+# Measurement-of-latent-signals-in-astronomy-and-psychometrics-a-common-model
